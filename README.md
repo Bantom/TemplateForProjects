@@ -6,7 +6,7 @@
  - connection to database PostgreSQL;
  - pull connections;
  - base script for database;
- - functionality for registartion new users;
- - interface create with using bootstrap 4;
+ - functionality for registration new users;
+ - interface was created with using bootstrap 4;
  - basic validation and controllers.
  
